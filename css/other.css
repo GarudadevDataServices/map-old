@@ -7,6 +7,35 @@ td {
 #title{
     color: black;
     height:fit-content;
-    font-size: 3vh;
+    font-size: 3.5vh;
     text-align: center;
+}
+
+#result{
+    text-align: center;
+    background-color: rgb(84, 203, 224);
+    min-height: 50vh;
+    padding-top: 10vh;
+}
+
+#info{
+    text-align: center;
+    padding-top: 3vh;
+    min-height: 50vh;
+}
+
+@media screen and (max-width: 992px) {
+    #title {
+        font-size: 1.5vh;
+    }
+    #result{
+        min-height: 35vh;
+        font-size: 1vh;
+        padding-top: 2vh;
+    }
+    #info{
+        min-height: 35vh;
+        font-size: 1vh;
+        padding-top: 1vh;
+    }
 }
