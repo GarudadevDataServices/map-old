@@ -1,6 +1,6 @@
 function onEachFeature(feature, layer) {
     var highlight= {
-      weight: 5,
+      weight: 3,
       opacity:1,
       color:'red',
       fillOpacity: .7};

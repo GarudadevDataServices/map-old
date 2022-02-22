@@ -4,45 +4,51 @@
 <head>
     <title id="pagetitle"></title>
     <link rel="icon" href="https://image.flaticon.com/icons/png/512/317/317528.png" type="image/x-icon">
+    <!meta name="viewport" content="width=device-width,initial-scale=1.0">
     <! importing css>
-        <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/map.css">
-        <link rel="stylesheet" href="css/other.css">
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-        <! importing js>
-            <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-            <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-            <script src="js/loadmap.js"></script>
-            <script src="js/loaddata.js"></script>
-            <script src="js/style.js"></script>
-            <script src="js/feature.js"></script>
+            <link rel="stylesheet" href="css/map.css">
+            <link rel="stylesheet" href="css/other.css">
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+            <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
+            <! importing js>
+                <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+                <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+                <script src="js/loadmap.js"></script>
+                <script src="js/loaddata.js"></script>
+                <script src="js/style.js"></script>
+                <script src="js/feature.js"></script>
 </head>
 
 <body>
-    <div class="column">
-        <div class="row2">
-            <div style="background-color: rgb(255, 255, 128);">
-                <h1 id="title"><u></u></h1>
-            </div>
-            <div id="map"></div>
-        </div>
-        <div class="row">
-            <div id="result" style="text-align: center;background-color: rgb(84, 203, 224);padding: 70px 0;">
-                <p><u>Click on the map to view this</u></p>
-            </div>
-            <div id="info" style="text-align: center;background-color: rgb(255, 255, 128);padding: 5px;"></div>
-        </div>
+
+    <div class="col-md-9" style="background-color: rgb(255, 255, 128);padding: 0%;">
+        <div id="title" style="height: 5vh;"><p>Loading...</p></div>
+        <div id="map" style="width:100%"></div>
     </div>
+    <div class="col-md-3 col-sm-12" style="background-color: rgb(255, 255, 128);padding: 0%;">
+        <div class="col-md-12 col-sm-6" id="result"
+            style="text-align: center;background-color: rgb(84, 203, 224);padding: 70px 0;height: 50vh;">
+            <p><u>Click on the map to view this</u></p>
+        </div>
+        <div class="col-md-12 col-sm-6" id="info"
+            style="text-align: center;background-color: rgb(255, 255, 128);padding: 5px;min-height: 50vh;"></div>
+    </div>
+
+
+
     <script>
         //https://newscode-fc5e6-default-rtdb.firebaseio.com/mapanalysis
         var tapped = false, trigger, data;
         var lastClickedLayer, checkLayer;
-        try{
-        var loc=window.location.search.substring(1).split("=")[1].trim();
-        var link = "https://newscode-fc5e6-default-rtdb.firebaseio.com/mapanalysis/"+loc+"/.json";}
-        catch{
+        try {
+            var loc = window.location.search.substring(1).split("=")[1].trim();
+            var link = "https://newscode-fc5e6-default-rtdb.firebaseio.com/mapanalysis/" + loc + "/.json";
+        }
+        catch {
             console.log("No param or invalid param is provided");
-            link="https://newscode-fc5e6-default-rtdb.firebaseio.com/mapanalysis/ap2019asm/.json"
+            link = "https://newscode-fc5e6-default-rtdb.firebaseio.com/mapanalysis/ap2019asm/.json"
         }
         $.getJSON(link, function (json) {
             document.getElementById("pagetitle").innerText = json["title"];
