@@ -9,8 +9,8 @@ function style(feature) {
     }
     return {
         fillColor: color,
-        weight: 0.5,
-        opacity:0.7,
+        weight: 0.7,
+        opacity: 0.5,
         color: 'black',
         fillOpacity: .7
     };

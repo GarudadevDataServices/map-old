@@ -5,7 +5,7 @@
     <title id="pagetitle"></title>
     <link rel="icon" href="https://image.flaticon.com/icons/png/512/317/317528.png" type="image/x-icon">
     <!meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <! importing css>
+        <! importing css>
             <link rel="stylesheet" href="css/map.css">
             <link rel="stylesheet" href="css/other.css">
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -24,7 +24,9 @@
 <body>
 
     <div class="col-md-9" style="background-color: rgb(255, 255, 128);padding: 0%;">
-        <div id="title"><p>Loading...</p></div>
+        <div id="title">
+            <p>Loading...</p>
+        </div>
         <div id="map" style="width:100%"></div>
     </div>
     <div class="col-md-3 col-sm-12" style="background-color: rgb(255, 255, 128);padding: 0%;">
@@ -37,7 +39,6 @@
 
 
     <script>
-        //https://newscode-fc5e6-default-rtdb.firebaseio.com/mapanalysis
         var tapped = false, trigger, data;
         var lastClickedLayer, checkLayer;
         try {
@@ -50,8 +51,8 @@
         }
         $.getJSON(link, function (json) {
             document.getElementById("pagetitle").innerText = json["title"];
-            load_data(json["data"]);
             load_map(json["map"]);
+            load_data(json["data"]);
         }
         );
     </script>
