@@ -20,7 +20,6 @@ function onEachFeature(feature, layer) {
         if (tapped){return;}
         if(lastClickedLayer){
             stateLayer.resetStyle(lastClickedLayer);
-            lastClickedLayer=null;
             }
             lastClickedLayer=layer;
             layer.setStyle(highlight);
@@ -30,7 +29,7 @@ function onEachFeature(feature, layer) {
 
     layer.on("click", function (e) { 
         console.log("cliked");
-        if (checkLayer==layer){
+        if ((checkLayer==layer)&&($(window).width()>=992)){
             stateLayer.resetStyle(checkLayer);
             checkLayer=null;
             tapped=false;

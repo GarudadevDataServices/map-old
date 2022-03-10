@@ -15,12 +15,12 @@ function load_data_again(link){
     $.getJSON(link, function (json) {
         featuredata = json;
         trigger = json["trigger"];
-        tapped=false;
+        //tapped=false;
+        stateLayer.setStyle(style);
         stateLayer.eachLayer(function (layer) {
             onEachFeature(layer.feature,layer);
-            checkLayer=null;
+            //checkLayer=null;
         });
-        stateLayer.setStyle(style);
         document.getElementById("info").innerHTML = json["desc"];
         document.getElementById("title").innerHTML=json["title"];
     });
