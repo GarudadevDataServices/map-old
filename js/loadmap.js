@@ -13,8 +13,8 @@ function load_map(file,title=null ,size = null){
         if (title!=null){
             document.getElementById("title").innerHTML=title;
         }
-        if ("function" in rootdata){
-            createFunction(rootdata["function"]);
+        if ("function" in featuredata){
+            createFunction(featuredata["function"]);
         }else{console.log("no function is present");}
     });
     L.control.layers(layers).addTo(map);
