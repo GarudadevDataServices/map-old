@@ -20,6 +20,7 @@ function onEachFeature(feature, layer) {
         if (tapped){return;}
         if(lastClickedLayer){
             stateLayer.resetStyle(lastClickedLayer);
+            lastClickedLayer=null;
             }
             lastClickedLayer=layer;
             layer.setStyle(highlight);
@@ -28,11 +29,13 @@ function onEachFeature(feature, layer) {
         }); 
 
     layer.on("click", function (e) { 
-            if (checkLayer==layer){
-                stateLayer.resetStyle(checkLayer);
-                tapped=false;
-                return;
-            }
+        console.log("cliked");
+        if (checkLayer==layer){
+            stateLayer.resetStyle(checkLayer);
+            checkLayer=null;
+            tapped=false;
+            return;
+        }
         tapped=true;
         if(lastClickedLayer){
                 stateLayer.resetStyle(lastClickedLayer);

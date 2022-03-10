@@ -15,8 +15,10 @@ function load_data_again(link){
     $.getJSON(link, function (json) {
         featuredata = json;
         trigger = json["trigger"];
+        tapped=false;
         stateLayer.eachLayer(function (layer) {
             onEachFeature(layer.feature,layer);
+            checkLayer=null;
         });
         stateLayer.setStyle(style);
         document.getElementById("info").innerHTML = json["desc"];
