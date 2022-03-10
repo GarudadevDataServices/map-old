@@ -7,13 +7,15 @@ function onEachFeature(feature, layer) {
 
     var output;
     var _color;
+    
     try{
-        output=data["data"][feature["properties"][trigger]]["matter"];
-        _color=data["data"][feature["properties"][trigger]]["color"];}
+        output=featuredata["data"][feature["properties"][trigger]]["matter"];
+        _color=featuredata["data"][feature["properties"][trigger]]["color"];}
     catch{
         console.log("Failed for "+[feature["properties"][trigger]]);
         return;
     }
+
     layer.on("mouseover", function (e) { 
         if (tapped){return;}
         if(lastClickedLayer){

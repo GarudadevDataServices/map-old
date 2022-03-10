@@ -1,16 +1,31 @@
 
-//Document must contain a div called "map"
 
-/* function load_map:-
-    file : link or path of file
-   size : discribes the size of the map box*/
-
-function load_map(file,size=null){
-    var map;
-    var map = L.map('map',{ zoomControl: false, attributionControl:false}).setView([51.505, -0.09], 13);
-    $.getJSON(file,function(data){
-        stateLayer=L.geoJson(data,{style:style,onEachFeature: onEachFeature});
+function load_map(file,title=null ,size = null){
+    // Layers
+    var mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
+    var layers = {'Google-Maps': L.tileLayer(mbUrl, { id: 'mapbox/outdoors-v11', tileSize: 512, zoomOffset: -1 }),'Satellite': L.tileLayer(mbUrl, { id: 'mapbox/satellite-v9', tileSize: 512, zoomOffset: -1 }), 'Satellite-Label': L.tileLayer(mbUrl, { id: 'mapbox/satellite-streets-v11', tileSize: 512, zoomOffset: -1 }), 'Streets': L.tileLayer(mbUrl, { id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1 }),'Navigation-day': L.tileLayer(mbUrl, { id: 'mapbox/navigation-day-v1', tileSize: 512, zoomOffset: -1 }), 'Navigation-night': L.tileLayer(mbUrl, { id: 'mapbox/navigation-night-v1', tileSize: 512, zoomOffset: -1 }),'Light': L.tileLayer(mbUrl, { id: 'mapbox/light-v10', tileSize: 512, zoomOffset: -1 }), 'Dark': L.tileLayer(mbUrl, { id: 'mapbox/dark-v10', tileSize: 512, zoomOffset: -1 }),'OpenStreetMap':L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'),"None":L.tileLayer("")};
+    
+    map = L.map('map', { zoomControl: false, attributionControl: false }).setView([51.505, -0.09], 13);
+    $.getJSON(file, function (data) {
+        stateLayer = L.geoJson(data ,{style: style, onEachFeature: onEachFeature });
         stateLayer.addTo(map);
         map.fitBounds(stateLayer.getBounds());
+        if (title!=null){
+            document.getElementById("title").innerHTML=title;
+        }
+        if ("function" in rootdata){
+            createFunction(rootdata["function"]);
+        }else{console.log("no function is present");}
     });
+    L.control.layers(layers).addTo(map);
+    
+}   
+
+
+function createFunction(data){
+    console.log("creating function");
+    if (data["name"]=="load_data_freq"){
+        var args=data["args"].split(",");
+        load_data_freq(args[0],args[1]);
+    }
 }

@@ -39,7 +39,8 @@
 
 
     <script>
-        var tapped = false, trigger, data;
+        var map,stateLayer,featuredata,rootdata;
+        var tapped = false, trigger;
         var lastClickedLayer, checkLayer;
         try {
             var loc = window.location.search.substring(1).split("=")[1].trim();
@@ -51,7 +52,8 @@
         }
         $.getJSON(link, function (json) {
             document.getElementById("pagetitle").innerText = json["title"];
-            load_map(json["map"]);
+            rootdata=json;
+            //load_map(json["map"]);
             load_data(json["data"]);
         }
         );
