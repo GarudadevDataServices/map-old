@@ -7,7 +7,7 @@ function load_data(link) {
         //document.getElementById("title").innerHTML=json["title"];
         document.getElementById("title").innerHTML = "Loading...";
         //stateLayer.setStyle(style);
-        load_map(rootdata["map"], json["title"]);
+        load_map(rootdata["map"]);
     });
 }
 
@@ -15,11 +15,11 @@ function load_data_again(link){
     $.getJSON(link, function (json) {
         featuredata = json;
         trigger = json["trigger"];
-        //tapped=false;
+        tapped=false;
         stateLayer.setStyle(style);
         stateLayer.eachLayer(function (layer) {
             onEachFeature(layer.feature,layer);
-            //checkLayer=null;
+            checkLayer=null;
         });
         document.getElementById("info").innerHTML = json["desc"];
         document.getElementById("title").innerHTML=json["title"];

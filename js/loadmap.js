@@ -1,17 +1,18 @@
 
 
-function load_map(file,title=null ,size = null){
+function load_map(file){
     // Layers
     var mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
     var layers = {'Google-Maps': L.tileLayer(mbUrl, { id: 'mapbox/outdoors-v11', tileSize: 512, zoomOffset: -1 }),'Satellite': L.tileLayer(mbUrl, { id: 'mapbox/satellite-v9', tileSize: 512, zoomOffset: -1 }), 'Satellite-Label': L.tileLayer(mbUrl, { id: 'mapbox/satellite-streets-v11', tileSize: 512, zoomOffset: -1 }), 'Streets': L.tileLayer(mbUrl, { id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1 }),'Navigation-day': L.tileLayer(mbUrl, { id: 'mapbox/navigation-day-v1', tileSize: 512, zoomOffset: -1 }), 'Navigation-night': L.tileLayer(mbUrl, { id: 'mapbox/navigation-night-v1', tileSize: 512, zoomOffset: -1 }),'Light': L.tileLayer(mbUrl, { id: 'mapbox/light-v10', tileSize: 512, zoomOffset: -1 }), 'Dark': L.tileLayer(mbUrl, { id: 'mapbox/dark-v10', tileSize: 512, zoomOffset: -1 }),'OpenStreetMap':L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'),"None":L.tileLayer("")};
     
     map = L.map('map', { zoomControl: false, attributionControl: false }).setView([51.505, -0.09], 13);
     $.getJSON(file, function (data) {
-        stateLayer = L.geoJson(data ,{style: style, onEachFeature: onEachFeature });
+        stateLayer = L.geoJson(data,{style: style, onEachFeature: onEachFeature});
         stateLayer.addTo(map);
         map.fitBounds(stateLayer.getBounds());
-        if (title!=null){
-            document.getElementById("title").innerHTML=title;
+        console.log(title);
+        if (featuredata['title']!=null){
+            document.getElementById("title").innerHTML=featuredata['title'];
         }
         if ("function" in featuredata){
             createFunction(featuredata["function"]);
