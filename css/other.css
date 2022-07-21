@@ -6,9 +6,9 @@ td {
 
 #title{
     color: black;
-    height:fit-content;
     font-size: 3.5vh;
     text-align: center;
+    max-height: 5vh;
 }
 
 #result{
