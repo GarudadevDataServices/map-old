@@ -1,5 +1,5 @@
 
-
+//37.07365877077966,97.39493992506763,6.766415822012496,68.09381543863502
 function load_map(file){
     // Layers
     var mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
@@ -9,8 +9,11 @@ function load_map(file){
     $.getJSON(file, function (data) {
         stateLayer = L.geoJson(data,{style: style, onEachFeature: onEachFeature});
         stateLayer.addTo(map);
-        map.fitBounds(stateLayer.getBounds());
-        console.log(title);
+        if ("bound" in featuredata){
+        mapBounds =L.latLngBounds(featuredata["bound"]);}
+        else{mapBounds=stateLayer.getBounds();}
+        map.fitBounds(mapBounds );
+        console.log(featuredata);
         if (featuredata['title']!=null){
             document.getElementById("title").innerHTML=featuredata['title'];
         }
