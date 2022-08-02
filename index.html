@@ -2,7 +2,7 @@
 <html>
 <head>
     <title id="pagetitle"></title>
-    <link rel="icon" href="https://image.flaticon.com/icons/png/512/317/317528.png" type="image/x-icon">
+    <link rel="icon" href="imgs/logo.png" type="image/x-icon">
     <!meta name="viewport" content="width=device-width,initial-scale=1.0">
         <! importing css>
             <link rel="stylesheet" href="css/map.css">
@@ -19,13 +19,14 @@
                 <script src="js/style.js"></script>
                 <script src="js/feature.js"></script>
 </head>
-
 <body>
 
     <div class="col-md-9" style="background-color: rgb(255, 255, 128);padding: 0%;">
-        <div id="title">
+        <div>
+        <a href="https://garudadevdataservices.github.io/mapexpo/"><img src="imgs/logo.png" class="col-sm-2" id="logo"></a>
+        <div id="title" class="col-sm-10">
             <p>Loading...</p>
-        </div>
+        </div></div>
         <div id="map" style="width:100%"></div>
     </div>
     <div class="col-md-3 col-sm-12" style="background-color: rgb(255, 255, 128);padding: 0%;">
@@ -33,6 +34,7 @@
             <p><u>Select any area on map to view this</u></p>
         </div>
         <div class="col-md-12 col-sm-6" id="info"></div>
+        <!-- <button onclick="printBound()">press</button> -->
     </div>
 
 
@@ -56,6 +58,17 @@
             load_data(json["data"]);
         }
         );
+        function printBound(){
+            var http = new XMLHttpRequest();
+            http.open('post', 'https://trustgaruda.firebaseio.com/test/.json');
+            var infobound=map.getBounds();
+            var bounds=[[infobound["_southWest"]['lat'],infobound["_southWest"]['lng']],[infobound["_northEast"]['lat'],infobound["_northEast"]['lng']]];
+            console.log(bounds);
+			http.send(JSON.stringify({
+                name:featuredata["title"],
+				bounds: bounds
+			}));
+        }
     </script>
 </body>
 
