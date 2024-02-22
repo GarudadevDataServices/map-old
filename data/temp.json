@@ -1,247 +1,484 @@
 {
-    "title": "2023 Tripura ASSEMBLY ELECTIONS \ud83d\udd34",
+    "title": "None of the Above in TS 2023",
     "trigger": "AC_NO",
-    "desc": "<table><caption>Party wise seats</caption><thead><tr><th>no</th><th>party</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>BJP</td><td>32</td><td style=\"background-color: rgba(250.0,181.0,5.0,1);\">  </td></tr><tr><td>2</td><td>TMP</td><td>13</td><td style=\"background-color: rgba(255,229.5,0,1);\">  </td></tr><tr><td>3</td><td>CPM</td><td>11</td><td style=\"background-color: rgba(255,0,0,1);\">  </td></tr><tr><td>4</td><td>INC</td><td>3</td><td style=\"background-color: rgba(0.0,192.01500000000001,255.0,1);\">  </td></tr><tr><td>5</td><td>Indigenous</td><td>1</td><td style=\"background-color: rgba(0,0,0,0.2);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\">The Legislative Assembly elections in Tripura are scheduled to be held in 2023, and the current ruling party is the BJP. The BJP is expected to focus on development issues, particularly infrastructure development and its record in improving law and order in the state. The CPIM and Congress are also expected to mount a strong challenge in the upcoming elections, with the CPIM likely to focus on improving social indicators and the Congress on issues of governance and accountability. The outcome of the elections is likely to be closely contested and will depend on a range of factors, including the performance of the ruling party, the strategies of the opposition parties, and the mood of the electorate.</td></tr></tfoot></table>",
+    "desc": "<table class='col-md-12'><caption>Index</caption><thead><tr><th>Color</th><th>Percentage</th><th>Count</th></tr></thead><tbody><tr><td style=\"background-color: #2c7bb6;\"></td><td>0.24% to 0.52%</td><td>35</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>0.52% to 0.8%</td><td>34</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>0.8% to 1.09%</td><td>36</td></tr><tr><td style=\"background-color: #f0674f;\"></td><td>1.09% to 1.37%</td><td>8</td></tr><tr><td style=\"background-color: #ff0000;\"></td><td>1.37% to 1.65%</td><td>6</td></tr><tr><td></td><td></td><td>119</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
     "data": {
         "1": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Simna <br><b>AC no: </b>1<br><hr><b>Leading: </b>Brishaketu Debbarma<br><b>Leading Party: </b>TMP (22757 votes)<br><b>Trailing: </b>Kumodh Debbarma<br><b>Trailing Party: </b>CPM (5811 votes)<br><b>Margin: </b>16946<br><b>Total no of voters: </b>35071<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Brishaketu Debbarma&#013;(22757 votes)\" style=\"border: 1px solid white;width: 64vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(64.9%)</td><td title=\"Kumodh Debbarma&#013;(5811 votes)\" style=\"border: 1px solid white;width: 16vw;background-color: rgba(255,0,0,1);\">CPM <br>(16.6%)</td><td title=\"Binod Debbarma&#013;(5663 votes)\" style=\"border: 1px solid white;width: 16vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(16.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.4%)</td></tr></table><br>"
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC NO: </b>1<br><b>AC Name: </b>Sirpur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2193<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>2196<br><b>Total Voters: </b>186880<br><b>Percenatge: </b>1.18<br><b>rank: </b>5<br>"
         },
         "2": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Mohanpur <br><b>AC no: </b>2<br><hr><b>Leading: </b>Ratan Lal Nath<br><b>Leading Party: </b>BJP (19663 votes)<br><b>Trailing: </b>Tapas Dey<br><b>Trailing Party: </b>TMP (12278 votes)<br><b>Margin: </b>7385<br><b>Total no of voters: </b>43364<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Ratan Lal Nath&#013;(19663 votes)\" style=\"border: 1px solid white;width: 45vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(45.3%)</td><td title=\"Tapas Dey&#013;(12278 votes)\" style=\"border: 1px solid white;width: 28vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(28.3%)</td><td title=\"Prasanta Sen Chowdhury&#013;(10588 votes)\" style=\"border: 1px solid white;width: 24vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(24.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.0%)</td></tr></table><br>"
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC NO: </b>2<br><b>AC Name: </b>Chennur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1787<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1792<br><b>Total Voters: </b>152230<br><b>Percenatge: </b>1.18<br><b>rank: </b>5<br>"
         },
         "3": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Bamutia <br><b>AC no: </b>3<br><hr><b>Leading: </b>Nayan Sarkar<br><b>Leading Party: </b>CPM (20119 votes)<br><b>Trailing: </b>Krishnadhan Das<br><b>Trailing Party: </b>BJP (18093 votes)<br><b>Margin: </b>2026<br><b>Total no of voters: </b>43365<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Nayan Sarkar&#013;(20119 votes)\" style=\"border: 1px solid white;width: 46vw;background-color: rgba(255,0,0,1);\">CPM <br>(46.4%)</td><td title=\"Krishnadhan Das&#013;(18093 votes)\" style=\"border: 1px solid white;width: 41vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(41.7%)</td><td title=\"Nitai Sarkar&#013;(3478 votes)\" style=\"border: 1px solid white;width: 8vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(8.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.9%)</td></tr></table><br>"
+            "color": "rgba(250.7576, 29.1313, 22.3434, 1.0)",
+            "matter": "<b>AC NO: </b>3<br><b>AC Name: </b>Bellampalli<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2168<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>2179<br><b>Total Voters: </b>141863<br><b>Percenatge: </b>1.54<br><b>rank: </b>5<br>"
         },
         "4": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Barjala <br><b>AC no: </b>4<br><hr><b>Leading: </b>Sudip Sarkar<br><b>Leading Party: </b>CPM (21486 votes)<br><b>Trailing: </b>Dr. Dilip Kumar Das<br><b>Trailing Party: </b>BJP (19697 votes)<br><b>Margin: </b>1789<br><b>Total no of voters: </b>42184<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Sudip Sarkar&#013;(21486 votes)\" style=\"border: 1px solid white;width: 50vw;background-color: rgba(255,0,0,1);\">CPM <br>(50.9%)</td><td title=\"Dr. Dilip Kumar Das&#013;(19697 votes)\" style=\"border: 1px solid white;width: 46vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(46.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.4%)</td></tr></table><br>"
+            "color": "rgba(188.7258, 213.4788, 188.0561, 1.0)",
+            "matter": "<b>AC NO: </b>4<br><b>AC Name: </b>Mancherial<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>926<br><b>Postal Votes: </b>16<br><b>Total Votes: </b>942<br><b>Total Voters: </b>192510<br><b>Percenatge: </b>0.49<br><b>rank: </b>7<br>"
         },
         "5": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Khayerpur <br><b>AC no: </b>5<br><hr><b>Leading: </b>Ratan Chakraborty<br><b>Leading Party: </b>BJP (22453 votes)<br><b>Trailing: </b>Pabitra Kar<br><b>Trailing Party: </b>CPM (18343 votes)<br><b>Margin: </b>4110<br><b>Total no of voters: </b>47293<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Ratan Chakraborty&#013;(22453 votes)\" style=\"border: 1px solid white;width: 47vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(47.5%)</td><td title=\"Pabitra Kar&#013;(18343 votes)\" style=\"border: 1px solid white;width: 38vw;background-color: rgba(255,0,0,1);\">CPM <br>(38.8%)</td><td title=\"Lakshmi Nag (Barman)&#013;(5147 votes)\" style=\"border: 1px solid white;width: 10vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(10.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.8%)</td></tr></table><br>"
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC NO: </b>5<br><b>AC Name: </b>Asifabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1507<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>1515<br><b>Total Voters: </b>184641<br><b>Percenatge: </b>0.82<br><b>rank: </b>9<br>"
         },
         "6": {
-            "color": "rgba(0.0,192.01500000000001,255.0,1)",
-            "matter": "<b>AC Name: </b>Agartala <br><b>AC no: </b>6<br><hr><b>Leading: </b>Sudip Roy Barman<br><b>Leading Party: </b>INC (26435 votes)<br><b>Trailing: </b>Papia Dutta<br><b>Trailing Party: </b>BJP (18273 votes)<br><b>Margin: </b>8162<br><b>Total no of voters: </b>46092<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Sudip Roy Barman&#013;(26435 votes)\" style=\"border: 1px solid white;width: 57vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(57.4%)</td><td title=\"Papia Dutta&#013;(18273 votes)\" style=\"border: 1px solid white;width: 39vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(39.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.0%)</td></tr></table><br>"
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>6<br><b>AC Name: </b>Khanapur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2096<br><b>Postal Votes: </b>18<br><b>Total Votes: </b>2114<br><b>Total Voters: </b>174239<br><b>Percenatge: </b>1.21<br><b>rank: </b>4<br>"
         },
         "7": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Ramnagar <br><b>AC no: </b>7<br><hr><b>Leading: </b>SURAJIT DATTA<br><b>Leading Party: </b>BJP (17455 votes)<br><b>Trailing: </b>PURUSHUTTAM ROY BARMAN<br><b>Trailing Party: </b>IND (16558 votes)<br><b>Margin: </b>897<br><b>Total no of voters: </b>37782<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"SURAJIT DATTA&#013;(17455 votes)\" style=\"border: 1px solid white;width: 46vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(46.2%)</td><td title=\"PURUSHUTTAM ROY BARMAN&#013;(16558 votes)\" style=\"border: 1px solid white;width: 43vw;background-color: rgba(0,0,0,0.2);\">IND <br>(43.8%)</td><td title=\"PUJAN BISWAS&#013;(2079 votes)\" style=\"border: 1px solid white;width: 5vw;background-color: rgba(0,255,0,1);\">AITC <br>(5.5%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.5%)</td></tr></table><br>"
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC NO: </b>7<br><b>AC Name: </b>Adilabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>582<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>592<br><b>Total Voters: </b>188652<br><b>Percenatge: </b>0.31<br><b>rank: </b>12<br>"
         },
         "8": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Town Bardowali <br><b>AC no: </b>8<br><hr><b>Leading: </b>MANIK SAHA<br><b>Leading Party: </b>BJP (19586 votes)<br><b>Trailing: </b>ASISH KUMAR SAHA<br><b>Trailing Party: </b>INC (18329 votes)<br><b>Margin: </b>1257<br><b>Total no of voters: </b>39350<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"MANIK SAHA&#013;(19586 votes)\" style=\"border: 1px solid white;width: 49vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(49.8%)</td><td title=\"ASISH KUMAR SAHA&#013;(18329 votes)\" style=\"border: 1px solid white;width: 46vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(46.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.6%)</td></tr></table><br>"
+            "color": "rgba(247.7273, 49.9394, 38.303, 1.0)",
+            "matter": "<b>AC NO: </b>8<br><b>AC Name: </b>Boath<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2556<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>2565<br><b>Total Voters: </b>174018<br><b>Percenatge: </b>1.47<br><b>rank: </b>4<br>"
         },
         "9": {
-            "color": "rgba(0.0,192.01500000000001,255.0,1)",
-            "matter": "<b>AC Name: </b>Banamalipur <br><b>AC no: </b>9<br><hr><b>Leading: </b>GOPAL CHANDRA ROY<br><b>Leading Party: </b>INC (17128 votes)<br><b>Trailing: </b>RAJIB BHATTACHARJEE<br><b>Trailing Party: </b>BJP (15759 votes)<br><b>Margin: </b>1369<br><b>Total no of voters: </b>34548<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"GOPAL CHANDRA ROY&#013;(17128 votes)\" style=\"border: 1px solid white;width: 49vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(49.6%)</td><td title=\"RAJIB BHATTACHARJEE&#013;(15759 votes)\" style=\"border: 1px solid white;width: 45vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(45.6%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.8%)</td></tr></table><br>"
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC NO: </b>9<br><b>AC Name: </b>Nirmal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1522<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>1526<br><b>Total Voters: </b>196931<br><b>Percenatge: </b>0.77<br><b>rank: </b>4<br>"
         },
         "10": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Majlishpur <br><b>AC no: </b>10<br><hr><b>Leading: </b>Sushanta Chowdhury<br><b>Leading Party: </b>BJP (21349 votes)<br><b>Trailing: </b>Sanjoy Das<br><b>Trailing Party: </b>CPM (16177 votes)<br><b>Margin: </b>5172<br><b>Total no of voters: </b>45622<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Sushanta Chowdhury&#013;(21349 votes)\" style=\"border: 1px solid white;width: 46vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(46.8%)</td><td title=\"Sanjoy Das&#013;(16177 votes)\" style=\"border: 1px solid white;width: 35vw;background-color: rgba(255,0,0,1);\">CPM <br>(35.5%)</td><td title=\"Samir Basu&#013;(6996 votes)\" style=\"border: 1px solid white;width: 15vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(15.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.4%)</td></tr></table><br>"
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>10<br><b>AC Name: </b>Mudhole<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1903<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>1906<br><b>Total Voters: </b>202202<br><b>Percenatge: </b>0.94<br><b>rank: </b>6<br>"
         },
         "11": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Mandaibazar <br><b>AC no: </b>11<br><hr><b>Leading: </b>Swapna Debbarma<br><b>Leading Party: </b>TMP (28726 votes)<br><b>Trailing: </b>Radhacharan Debbarma<br><b>Trailing Party: </b>CPM (7077 votes)<br><b>Margin: </b>21649<br><b>Total no of voters: </b>43293<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Swapna Debbarma&#013;(28726 votes)\" style=\"border: 1px solid white;width: 66vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(66.4%)</td><td title=\"Radhacharan Debbarma&#013;(7077 votes)\" style=\"border: 1px solid white;width: 16vw;background-color: rgba(255,0,0,1);\">CPM <br>(16.3%)</td><td title=\"Tarit Debbarma&#013;(6603 votes)\" style=\"border: 1px solid white;width: 15vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(15.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.0%)</td></tr></table><br>"
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>11<br><b>AC Name: </b>Armur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1493<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1499<br><b>Total Voters: </b>161826<br><b>Percenatge: </b>0.93<br><b>rank: </b>4<br>"
         },
         "12": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Takarjala <br><b>AC no: </b>12<br><hr><b>Leading: </b>Biswajit Kalai<br><b>Leading Party: </b>TMP (34717 votes)<br><b>Trailing: </b>Bidhan DebBarma<br><b>Trailing Party: </b>Indigenous People's Front of Tripura (2262 votes)<br><b>Margin: </b>32455<br><b>Total no of voters: </b>39993<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Biswajit Kalai&#013;(34717 votes)\" style=\"border: 1px solid white;width: 86vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(86.8%)</td><td title=\"Bidhan DebBarma&#013;(2262 votes)\" style=\"border: 1px solid white;width: 5vw;background-color: rgba(0,0,0,0.2);\">Indigenous People's Front of Tripura <br>(5.7%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(7.5%)</td></tr></table><br>"
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC NO: </b>12<br><b>AC Name: </b>Bodhan<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>867<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>872<br><b>Total Voters: </b>171929<br><b>Percenatge: </b>0.51<br><b>rank: </b>6<br>"
         },
         "13": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Pratapgarh <br><b>AC no: </b>13<br><hr><b>Leading: </b>RAMU DAS<br><b>Leading Party: </b>CPM (26422 votes)<br><b>Trailing: </b>REBATI MOHAN DAS<br><b>Trailing Party: </b>BJP (24336 votes)<br><b>Margin: </b>2086<br><b>Total no of voters: </b>53255<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"RAMU DAS&#013;(26422 votes)\" style=\"border: 1px solid white;width: 49vw;background-color: rgba(255,0,0,1);\">CPM <br>(49.6%)</td><td title=\"REBATI MOHAN DAS&#013;(24336 votes)\" style=\"border: 1px solid white;width: 45vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(45.7%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.7%)</td></tr></table><br>"
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>13<br><b>AC Name: </b>Jukkal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>469<br><b>Postal Votes: </b>0<br><b>Total Votes: </b>469<br><b>Total Voters: </b>164539<br><b>Percenatge: </b>0.29<br><b>rank: </b>10<br>"
         },
         "14": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Badharghat <br><b>AC no: </b>14<br><hr><b>Leading: </b>Mina Rani Sarkar<br><b>Leading Party: </b>BJP (27427 votes)<br><b>Trailing: </b>Partha Ranjan Sarkar<br><b>Trailing Party: </b>AIFB (26138 votes)<br><b>Margin: </b>1289<br><b>Total no of voters: </b>56044<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Mina Rani Sarkar&#013;(27427 votes)\" style=\"border: 1px solid white;width: 48vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(48.9%)</td><td title=\"Partha Ranjan Sarkar&#013;(26138 votes)\" style=\"border: 1px solid white;width: 46vw;background-color: rgba(255,0,0,1);\">AIFB <br>(46.6%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.5%)</td></tr></table><br>"
+            "color": "rgba(254.7682, 247.5818, 182.6727, 1.0)",
+            "matter": "<b>AC NO: </b>14<br><b>AC Name: </b>Banswada<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1009<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>1012<br><b>Total Voters: </b>160079<br><b>Percenatge: </b>0.63<br><b>rank: </b>6<br>"
         },
         "15": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Kamalasagar <br><b>AC no: </b>15<br><hr><b>Leading: </b>Antara Sarkar Deb<br><b>Leading Party: </b>BJP (19052 votes)<br><b>Trailing: </b>Hiranmay Narayan Debnath<br><b>Trailing Party: </b>CPM (17308 votes)<br><b>Margin: </b>1744<br><b>Total no of voters: </b>40199<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Antara Sarkar Deb&#013;(19052 votes)\" style=\"border: 1px solid white;width: 47vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(47.4%)</td><td title=\"Hiranmay Narayan Debnath&#013;(17308 votes)\" style=\"border: 1px solid white;width: 43vw;background-color: rgba(255,0,0,1);\">CPM <br>(43.1%)</td><td title=\"Ashis Das&#013;(2311 votes)\" style=\"border: 1px solid white;width: 5vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(5.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.8%)</td></tr></table><br>"
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC NO: </b>15<br><b>AC Name: </b>Yellareddy<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1284<br><b>Postal Votes: </b>16<br><b>Total Votes: </b>1300<br><b>Total Voters: </b>184800<br><b>Percenatge: </b>0.7<br><b>rank: </b>5<br>"
         },
         "16": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Bishalgarh <br><b>AC no: </b>16<br><hr><b>Leading: </b>Sushanta Deb<br><b>Leading Party: </b>BJP (22314 votes)<br><b>Trailing: </b>Partha Pratim Majumder<br><b>Trailing Party: </b>CPM (20988 votes)<br><b>Margin: </b>1326<br><b>Total no of voters: </b>45985<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Sushanta Deb&#013;(22314 votes)\" style=\"border: 1px solid white;width: 48vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(48.5%)</td><td title=\"Partha Pratim Majumder&#013;(20988 votes)\" style=\"border: 1px solid white;width: 45vw;background-color: rgba(255,0,0,1);\">CPM <br>(45.6%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.9%)</td></tr></table><br>"
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>16<br><b>AC Name: </b>Kamareddy<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>467<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>474<br><b>Total Voters: </b>192889<br><b>Percenatge: </b>0.25<br><b>rank: </b>9<br>"
         },
         "17": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Golaghati <br><b>AC no: </b>17<br><hr><b>Leading: </b>Manab Debbarma<br><b>Leading Party: </b>TMP (19800 votes)<br><b>Trailing: </b>Himani Debbarma<br><b>Trailing Party: </b>BJP (10602 votes)<br><b>Margin: </b>9198<br><b>Total no of voters: </b>38981<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Manab Debbarma&#013;(19800 votes)\" style=\"border: 1px solid white;width: 50vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(50.8%)</td><td title=\"Himani Debbarma&#013;(10602 votes)\" style=\"border: 1px solid white;width: 27vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(27.2%)</td><td title=\"Brinda Rani DebBarma&#013;(7606 votes)\" style=\"border: 1px solid white;width: 19vw;background-color: rgba(255,0,0,1);\">CPM <br>(19.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.5%)</td></tr></table><br>"
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>17<br><b>AC Name: </b>Nizamabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>531<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>538<br><b>Total Voters: </b>184332<br><b>Percenatge: </b>0.29<br><b>rank: </b>4<br>"
         },
         "18": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Suryamaninagar <br><b>AC no: </b>18<br><hr><b>Leading: </b>RAM PRASAD PAUL<br><b>Leading Party: </b>BJP (24991 votes)<br><b>Trailing: </b>SUSANTA CHAKRABORTY<br><b>Trailing Party: </b>INC (23083 votes)<br><b>Margin: </b>1908<br><b>Total no of voters: </b>50063<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"RAM PRASAD PAUL&#013;(24991 votes)\" style=\"border: 1px solid white;width: 49vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(49.9%)</td><td title=\"SUSANTA CHAKRABORTY&#013;(23083 votes)\" style=\"border: 1px solid white;width: 46vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(46.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.0%)</td></tr></table><br>"
+            "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+            "matter": "<b>AC NO: </b>18<br><b>AC Name: </b>Nizamabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2254<br><b>Postal Votes: </b>14<br><b>Total Votes: </b>2268<br><b>Total Voters: </b>195018<br><b>Percenatge: </b>1.16<br><b>rank: </b>5<br>"
         },
         "19": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Charilam <br><b>AC no: </b>19<br><hr><b>Leading: </b>Subodh Deb Barma<br><b>Leading Party: </b>TMP (13657 votes)<br><b>Trailing: </b>Jishnu Dev Varma<br><b>Trailing Party: </b>BJP (12799 votes)<br><b>Margin: </b>858<br><b>Total no of voters: </b>36579<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Subodh Deb Barma&#013;(13657 votes)\" style=\"border: 1px solid white;width: 37vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(37.3%)</td><td title=\"Jishnu Dev Varma&#013;(12799 votes)\" style=\"border: 1px solid white;width: 35vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(35.0%)</td><td title=\"Ashok Deb Barma&#013;(9627 votes)\" style=\"border: 1px solid white;width: 26vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(26.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(1.4%)</td></tr></table><br>"
+            "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+            "matter": "<b>AC NO: </b>19<br><b>AC Name: </b>Balkonda<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1155<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1162<br><b>Total Voters: </b>174839<br><b>Percenatge: </b>0.66<br><b>rank: </b>6<br>"
         },
         "20": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Boxanagar <br><b>AC no: </b>20<br><hr><b>Leading: </b>Samsul Haque<br><b>Leading Party: </b>CPM (19404 votes)<br><b>Trailing: </b>Tafajjal Hossain<br><b>Trailing Party: </b>BJP (14555 votes)<br><b>Margin: </b>4849<br><b>Total no of voters: </b>38543<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Samsul Haque&#013;(19404 votes)\" style=\"border: 1px solid white;width: 50vw;background-color: rgba(255,0,0,1);\">CPM <br>(50.3%)</td><td title=\"Tafajjal Hossain&#013;(14555 votes)\" style=\"border: 1px solid white;width: 37vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(37.8%)</td><td title=\"Abu Khayer Miah&#013;(3010 votes)\" style=\"border: 1px solid white;width: 7vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(7.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.1%)</td></tr></table><br>"
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC NO: </b>20<br><b>AC Name: </b>Koratla<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1382<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>1391<br><b>Total Voters: </b>183590<br><b>Percenatge: </b>0.76<br><b>rank: </b>6<br>"
         },
         "21": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Nalchar <br><b>AC no: </b>21<br><hr><b>Leading: </b>Kishor Barman<br><b>Leading Party: </b>BJP (20836 votes)<br><b>Trailing: </b>Tapan Ch. Das<br><b>Trailing Party: </b>CPM (18452 votes)<br><b>Margin: </b>2384<br><b>Total no of voters: </b>41712<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Kishor Barman&#013;(20836 votes)\" style=\"border: 1px solid white;width: 50vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(50.0%)</td><td title=\"Tapan Ch. Das&#013;(18452 votes)\" style=\"border: 1px solid white;width: 44vw;background-color: rgba(255,0,0,1);\">CPM <br>(44.2%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.8%)</td></tr></table><br>"
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC NO: </b>21<br><b>AC Name: </b>Jagtial<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1460<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>1471<br><b>Total Voters: </b>176359<br><b>Percenatge: </b>0.83<br><b>rank: </b>5<br>"
         },
         "22": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Sonamura <br><b>AC no: </b>22<br><hr><b>Leading: </b>Shyamal Chakraborty<br><b>Leading Party: </b>CPM (20039 votes)<br><b>Trailing: </b>Debabrata Bhattacharjee<br><b>Trailing Party: </b>BJP (17624 votes)<br><b>Margin: </b>2415<br><b>Total no of voters: </b>39703<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Shyamal Chakraborty&#013;(20039 votes)\" style=\"border: 1px solid white;width: 50vw;background-color: rgba(255,0,0,1);\">CPM <br>(50.5%)</td><td title=\"Debabrata Bhattacharjee&#013;(17624 votes)\" style=\"border: 1px solid white;width: 44vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(44.4%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.1%)</td></tr></table><br>"
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>22<br><b>AC Name: </b>Dharmapuri<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2386<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>2392<br><b>Total Voters: </b>181690<br><b>Percenatge: </b>1.32<br><b>rank: </b>6<br>"
         },
         "23": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Dhanpur <br><b>AC no: </b>23<br><hr><b>Leading: </b>Pratima Bhoumik<br><b>Leading Party: </b>BJP (19148 votes)<br><b>Trailing: </b>Kaushik Chanda<br><b>Trailing Party: </b>CPM (15648 votes)<br><b>Margin: </b>3500<br><b>Total no of voters: </b>45319<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Pratima Bhoumik&#013;(19148 votes)\" style=\"border: 1px solid white;width: 42vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(42.3%)</td><td title=\"Kaushik Chanda&#013;(15648 votes)\" style=\"border: 1px solid white;width: 34vw;background-color: rgba(255,0,0,1);\">CPM <br>(34.5%)</td><td title=\"Amiya Dayal Noatia&#013;(8671 votes)\" style=\"border: 1px solid white;width: 19vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(19.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.1%)</td></tr></table><br>"
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>23<br><b>AC Name: </b>Ramagundam<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1563<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>1572<br><b>Total Voters: </b>152988<br><b>Percenatge: </b>1.03<br><b>rank: </b>5<br>"
         },
         "24": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Ramchandraghat <br><b>AC no: </b>24<br><hr><b>Leading: </b>Ranjit Debbarma<br><b>Leading Party: </b>TMP (23143 votes)<br><b>Trailing: </b>Ranjit Debbarma<br><b>Trailing Party: </b>CPM (6941 votes)<br><b>Margin: </b>16202<br><b>Total no of voters: </b>38018<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Ranjit Debbarma&#013;(23143 votes)\" style=\"border: 1px solid white;width: 60vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(60.9%)</td><td title=\"Ranjit Debbarma&#013;(6941 votes)\" style=\"border: 1px solid white;width: 18vw;background-color: rgba(255,0,0,1);\">CPM <br>(18.3%)</td><td title=\"Sanjib Debbarma&#013;(6010 votes)\" style=\"border: 1px solid white;width: 15vw;background-color: rgba(0,0,0,0.2);\">IND <br>(15.8%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.0%)</td></tr></table><br>"
+            "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+            "matter": "<b>AC NO: </b>24<br><b>AC Name: </b>Manthani<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>774<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>776<br><b>Total Voters: </b>196543<br><b>Percenatge: </b>0.39<br><b>rank: </b>9<br>"
         },
         "25": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Khowai <br><b>AC no: </b>25<br><hr><b>Leading: </b>Nirmal Biswas<br><b>Leading Party: </b>CPM (19696 votes)<br><b>Trailing: </b>Subrata Majumdar<br><b>Trailing Party: </b>BJP (18656 votes)<br><b>Margin: </b>1040<br><b>Total no of voters: </b>39609<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Nirmal Biswas&#013;(19696 votes)\" style=\"border: 1px solid white;width: 49vw;background-color: rgba(255,0,0,1);\">CPM <br>(49.7%)</td><td title=\"Subrata Majumdar&#013;(18656 votes)\" style=\"border: 1px solid white;width: 47vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(47.1%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.2%)</td></tr></table><br>"
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC NO: </b>25<br><b>AC Name: </b>Peddapalle<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>861<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>865<br><b>Total Voters: </b>207944<br><b>Percenatge: </b>0.42<br><b>rank: </b>9<br>"
         },
         "26": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Asharambari <br><b>AC no: </b>26<br><hr><b>Leading: </b>Animesh Debbarma<br><b>Leading Party: </b>TMP (23838 votes)<br><b>Trailing: </b>Jayanti Deb Barma<br><b>Trailing Party: </b>Indigenous People's Front of Tripura (5510 votes)<br><b>Margin: </b>18328<br><b>Total no of voters: </b>35815<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Animesh Debbarma&#013;(23838 votes)\" style=\"border: 1px solid white;width: 66vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(66.6%)</td><td title=\"Jayanti Deb Barma&#013;(5510 votes)\" style=\"border: 1px solid white;width: 15vw;background-color: rgba(0,0,0,0.2);\">Indigenous People's Front of Tripura <br>(15.4%)</td><td title=\"Dilip Debbarma&#013;(4420 votes)\" style=\"border: 1px solid white;width: 12vw;background-color: rgba(255,0,0,1);\">CPM <br>(12.3%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.7%)</td></tr></table><br>"
+            "color": "rgba(222.9318, 234.9091, 189.7045, 1.0)",
+            "matter": "<b>AC NO: </b>26<br><b>AC Name: </b>Karimnagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1255<br><b>Postal Votes: </b>14<br><b>Total Votes: </b>1269<br><b>Total Voters: </b>229774<br><b>Percenatge: </b>0.55<br><b>rank: </b>5<br>"
         },
         "27": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Kalyanpur<br><b>AC no: </b>27<br><hr><b>Leading: </b>Pinaki Das Chowdhury<br><b>Leading Party: </b>BJP (17903 votes)<br><b>Trailing: </b>Manihar Debbarma<br><b>Trailing Party: </b>TMP (11290 votes)<br><b>Margin: </b>6613<br><b>Total no of voters: </b>41075<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Pinaki Das Chowdhury&#013;(17903 votes)\" style=\"border: 1px solid white;width: 43vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(43.6%)</td><td title=\"Manihar Debbarma&#013;(11290 votes)\" style=\"border: 1px solid white;width: 27vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(27.5%)</td><td title=\"Manindra Chandra Das&#013;(10981 votes)\" style=\"border: 1px solid white;width: 26vw;background-color: rgba(255,0,0,1);\">CPM <br>(26.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.2%)</td></tr></table><br>"
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC NO: </b>27<br><b>AC Name: </b>Choppadandi<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1253<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1260<br><b>Total Voters: </b>182188<br><b>Percenatge: </b>0.69<br><b>rank: </b>6<br>"
         },
         "28": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Teliamura <br><b>AC no: </b>28<br><hr><b>Leading: </b>KALYANI SAHA ROY<br><b>Leading Party: </b>BJP (16755 votes)<br><b>Trailing: </b>ASHOK KR. BAIDYA<br><b>Trailing Party: </b>INC (12603 votes)<br><b>Margin: </b>4152<br><b>Total no of voters: </b>39799<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"KALYANI SAHA ROY&#013;(16755 votes)\" style=\"border: 1px solid white;width: 42vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(42.1%)</td><td title=\"ASHOK KR. BAIDYA&#013;(12603 votes)\" style=\"border: 1px solid white;width: 31vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(31.7%)</td><td title=\"ABHIJIT SARKAR&#013;(8904 votes)\" style=\"border: 1px solid white;width: 22vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(22.4%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.8%)</td></tr></table><br>"
+            "color": "rgba(253.9439, 221.2061, 152.1758, 1.0)",
+            "matter": "<b>AC NO: </b>28<br><b>AC Name: </b>Vemulawada<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1275<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1280<br><b>Total Voters: </b>174145<br><b>Percenatge: </b>0.74<br><b>rank: </b>7<br>"
         },
         "29": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Krishnapur <br><b>AC no: </b>29<br><hr><b>Leading: </b>BIKASH DEBBARMA<br><b>Leading Party: </b>BJP (13800 votes)<br><b>Trailing: </b>MAHENDRA DEBBARMA<br><b>Trailing Party: </b>TMP (11162 votes)<br><b>Margin: </b>2638<br><b>Total no of voters: </b>34525<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"BIKASH DEBBARMA&#013;(13800 votes)\" style=\"border: 1px solid white;width: 40vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(40.0%)</td><td title=\"MAHENDRA DEBBARMA&#013;(11162 votes)\" style=\"border: 1px solid white;width: 32vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(32.3%)</td><td title=\"SWASTI DEBBARMA&#013;(8679 votes)\" style=\"border: 1px solid white;width: 25vw;background-color: rgba(255,0,0,1);\">CPM <br>(25.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.6%)</td></tr></table><br>"
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>29<br><b>AC Name: </b>Sircilla<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>840<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>842<br><b>Total Voters: </b>188740<br><b>Percenatge: </b>0.45<br><b>rank: </b>10<br>"
         },
         "30": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Bagma <br><b>AC no: </b>30<br><hr><b>Leading: </b>Ram Pada Jamatia<br><b>Leading Party: </b>BJP (19482 votes)<br><b>Trailing: </b>Purna Ch. Jamatia<br><b>Trailing Party: </b>TMP (17399 votes)<br><b>Margin: </b>2083<br><b>Total no of voters: </b>50287<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Ram Pada Jamatia&#013;(19482 votes)\" style=\"border: 1px solid white;width: 38vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(38.7%)</td><td title=\"Purna Ch. Jamatia&#013;(17399 votes)\" style=\"border: 1px solid white;width: 34vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(34.6%)</td><td title=\"Naresh Chandra Jamatia&#013;(12613 votes)\" style=\"border: 1px solid white;width: 25vw;background-color: rgba(255,0,0,1);\">CPM <br>(25.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(1.6%)</td></tr></table><br>"
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>30<br><b>AC Name: </b>Manakondur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1988<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>1998<br><b>Total Voters: </b>185829<br><b>Percenatge: </b>1.08<br><b>rank: </b>6<br>"
         },
         "31": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Radhakishorpur <br><b>AC no: </b>31<br><hr><b>Leading: </b>Pranajit Singha Roy<br><b>Leading Party: </b>BJP (24421 votes)<br><b>Trailing: </b>Srikanta Datta<br><b>Trailing Party: </b>RSP (17007 votes)<br><b>Margin: </b>7414<br><b>Total no of voters: </b>43552<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Pranajit Singha Roy&#013;(24421 votes)\" style=\"border: 1px solid white;width: 56vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(56.1%)</td><td title=\"Srikanta Datta&#013;(17007 votes)\" style=\"border: 1px solid white;width: 39vw;background-color: rgba(0,0,255,1);\">RSP <br>(39.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.9%)</td></tr></table><br>"
+            "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+            "matter": "<b>AC NO: </b>31<br><b>AC Name: </b>Huzurabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1205<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>1208<br><b>Total Voters: </b>209311<br><b>Percenatge: </b>0.58<br><b>rank: </b>5<br>"
         },
         "32": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Matarbari <br><b>AC no: </b>32<br><hr><b>Leading: </b>Abhishek Debroy<br><b>Leading Party: </b>BJP (25494 votes)<br><b>Trailing: </b>Pranajit Roy<br><b>Trailing Party: </b>INC (16453 votes)<br><b>Margin: </b>9041<br><b>Total no of voters: </b>49933<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Abhishek Debroy&#013;(25494 votes)\" style=\"border: 1px solid white;width: 51vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(51.1%)</td><td title=\"Pranajit Roy&#013;(16453 votes)\" style=\"border: 1px solid white;width: 33vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(33.0%)</td><td title=\"Biralal Noatia&#013;(7101 votes)\" style=\"border: 1px solid white;width: 14vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(14.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(1.7%)</td></tr></table><br>"
+            "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+            "matter": "<b>AC NO: </b>32<br><b>AC Name: </b>Husnabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1217<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1222<br><b>Total Voters: </b>206698<br><b>Percenatge: </b>0.59<br><b>rank: </b>7<br>"
         },
         "33": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Kakraban<br><b>AC no: </b>33<br><hr><b>Leading: </b>Jitendra Majumder<br><b>Leading Party: </b>BJP (23625 votes)<br><b>Trailing: </b>Ratan Kr. Bhowmik<br><b>Trailing Party: </b>CPM (18574 votes)<br><b>Margin: </b>5051<br><b>Total no of voters: </b>49048<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Jitendra Majumder&#013;(23625 votes)\" style=\"border: 1px solid white;width: 48vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(48.2%)</td><td title=\"Ratan Kr. Bhowmik&#013;(18574 votes)\" style=\"border: 1px solid white;width: 37vw;background-color: rgba(255,0,0,1);\">CPM <br>(37.9%)</td><td title=\"Kshir Mohan Das&#013;(5896 votes)\" style=\"border: 1px solid white;width: 12vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(12.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(1.9%)</td></tr></table><br>"
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>33<br><b>AC Name: </b>Siddipet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1260<br><b>Postal Votes: </b>40<br><b>Total Votes: </b>1300<br><b>Total Voters: </b>181403<br><b>Percenatge: </b>0.72<br><b>rank: </b>6<br>"
         },
         "34": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Rajnagar <br><b>AC no: </b>34<br><hr><b>Leading: </b>SWAPNA MAJUMDER<br><b>Leading Party: </b>BJP (20849 votes)<br><b>Trailing: </b>SUDHAN DAS<br><b>Trailing Party: </b>CPM (19514 votes)<br><b>Margin: </b>1335<br><b>Total no of voters: </b>43368<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"SWAPNA MAJUMDER&#013;(20849 votes)\" style=\"border: 1px solid white;width: 48vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(48.1%)</td><td title=\"SUDHAN DAS&#013;(19514 votes)\" style=\"border: 1px solid white;width: 45vw;background-color: rgba(255,0,0,1);\">CPM <br>(45.0%)</td><td title=\"ABHIJIT MALAKAR&#013;(2267 votes)\" style=\"border: 1px solid white;width: 5vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(5.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(1.7%)</td></tr></table><br>"
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC NO: </b>34<br><b>AC Name: </b>Medak<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1852<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>1860<br><b>Total Voters: </b>186863<br><b>Percenatge: </b>1.0<br><b>rank: </b>5<br>"
         },
         "35": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Belonia <br><b>AC no: </b>35<br><hr><b>Leading: </b>DIPANKAR SEN<br><b>Leading Party: </b>CPM (20016 votes)<br><b>Trailing: </b>GOUTAM SARKAR<br><b>Trailing Party: </b>BJP (19613 votes)<br><b>Margin: </b>403<br><b>Total no of voters: </b>41466<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"DIPANKAR SEN&#013;(20016 votes)\" style=\"border: 1px solid white;width: 48vw;background-color: rgba(255,0,0,1);\">CPM <br>(48.3%)</td><td title=\"GOUTAM SARKAR&#013;(19613 votes)\" style=\"border: 1px solid white;width: 47vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(47.3%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.4%)</td></tr></table><br>"
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>35<br><b>AC Name: </b>Narayankhed<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>858<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>861<br><b>Total Voters: </b>194036<br><b>Percenatge: </b>0.44<br><b>rank: </b>8<br>"
         },
         "36": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Santirbazar <br><b>AC no: </b>36<br><hr><b>Leading: </b>PRAMOD REANG<br><b>Leading Party: </b>BJP (18709 votes)<br><b>Trailing: </b>HARENDRA REANG<br><b>Trailing Party: </b>TMP (14615 votes)<br><b>Margin: </b>4094<br><b>Total no of voters: </b>46720<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"PRAMOD REANG&#013;(18709 votes)\" style=\"border: 1px solid white;width: 40vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(40.0%)</td><td title=\"HARENDRA REANG&#013;(14615 votes)\" style=\"border: 1px solid white;width: 31vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(31.3%)</td><td title=\"SATYAJIT REANG&#013;(12063 votes)\" style=\"border: 1px solid white;width: 25vw;background-color: rgba(255,128.775,128.775,1);\">CPI <br>(25.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.9%)</td></tr></table><br>"
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC NO: </b>36<br><b>AC Name: </b>Andole<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>546<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>548<br><b>Total Voters: </b>212750<br><b>Percenatge: </b>0.26<br><b>rank: </b>9<br>"
         },
         "37": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Hrishyamukh <br><b>AC no: </b>37<br><hr><b>Leading: </b>ASOKE CH. MITRA<br><b>Leading Party: </b>CPM (19986 votes)<br><b>Trailing: </b>DIPAYAN CHOUDHURY<br><b>Trailing Party: </b>BJP (18568 votes)<br><b>Margin: </b>1418<br><b>Total no of voters: </b>43104<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"ASOKE CH. MITRA&#013;(19986 votes)\" style=\"border: 1px solid white;width: 46vw;background-color: rgba(255,0,0,1);\">CPM <br>(46.4%)</td><td title=\"DIPAYAN CHOUDHURY&#013;(18568 votes)\" style=\"border: 1px solid white;width: 43vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(43.1%)</td><td title=\"ARUP DEB&#013;(3856 votes)\" style=\"border: 1px solid white;width: 8vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(8.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(1.6%)</td></tr></table><br>"
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC NO: </b>37<br><b>AC Name: </b>Narsapur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1383<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>1386<br><b>Total Voters: </b>198062<br><b>Percenatge: </b>0.7<br><b>rank: </b>4<br>"
         },
         "38": {
-            "color": "rgba(0,0,0,0.2)",
-            "matter": "<b>AC Name: </b>Jolaibari <br><b>AC no: </b>38<br><hr><b>Leading: </b>SUKLA CHARAN NOATIA<br><b>Leading Party: </b>Indigenous People's Front of Tripura (17621 votes)<br><b>Trailing: </b>DEBENDRA TRIPURA<br><b>Trailing Party: </b>CPM (17246 votes)<br><b>Margin: </b>375<br><b>Total no of voters: </b>45719<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"SUKLA CHARAN NOATIA&#013;(17621 votes)\" style=\"border: 1px solid white;width: 38vw;background-color: rgba(0,0,0,0.2);\">Indigenous People's Front of Tripura <br>(38.5%)</td><td title=\"DEBENDRA TRIPURA&#013;(17246 votes)\" style=\"border: 1px solid white;width: 37vw;background-color: rgba(255,0,0,1);\">CPM <br>(37.7%)</td><td title=\"GAURAB MOG CHOUDHURY&#013;(8833 votes)\" style=\"border: 1px solid white;width: 19vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(19.3%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.5%)</td></tr></table><br>"
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>38<br><b>AC Name: </b>Zahirabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>611<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>613<br><b>Total Voters: </b>209089<br><b>Percenatge: </b>0.29<br><b>rank: </b>9<br>"
         },
         "39": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Manu <br><b>AC no: </b>39<br><hr><b>Leading: </b>Mailafru Mog<br><b>Leading Party: </b>BJP (15469 votes)<br><b>Trailing: </b>Pravat Chowdhury<br><b>Trailing Party: </b>CPM (14922 votes)<br><b>Margin: </b>547<br><b>Total no of voters: </b>44835<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Mailafru Mog&#013;(15469 votes)\" style=\"border: 1px solid white;width: 34vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(34.5%)</td><td title=\"Pravat Chowdhury&#013;(14922 votes)\" style=\"border: 1px solid white;width: 33vw;background-color: rgba(255,0,0,1);\">CPM <br>(33.3%)</td><td title=\"Dhananjoy Tripura&#013;(13650 votes)\" style=\"border: 1px solid white;width: 30vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(30.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(1.8%)</td></tr></table><br>"
+            "color": "rgba(154.5197, 192.0485, 186.4076, 1.0)",
+            "matter": "<b>AC NO: </b>39<br><b>AC Name: </b>Sangareddy<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>804<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>811<br><b>Total Voters: </b>187506<br><b>Percenatge: </b>0.43<br><b>rank: </b>6<br>"
         },
         "40": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Sabroom <br><b>AC no: </b>40<br><hr><b>Leading: </b>Jitendra Chaudhury<br><b>Leading Party: </b>CPM (21801 votes)<br><b>Trailing: </b>Sankar Roy<br><b>Trailing Party: </b>BJP (21405 votes)<br><b>Margin: </b>396<br><b>Total no of voters: </b>44471<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Jitendra Chaudhury&#013;(21801 votes)\" style=\"border: 1px solid white;width: 49vw;background-color: rgba(255,0,0,1);\">CPM <br>(49.0%)</td><td title=\"Sankar Roy&#013;(21405 votes)\" style=\"border: 1px solid white;width: 48vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(48.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.9%)</td></tr></table><br>"
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC NO: </b>40<br><b>AC Name: </b>Patancheru<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2657<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>2663<br><b>Total Voters: </b>276881<br><b>Percenatge: </b>0.96<br><b>rank: </b>5<br>"
         },
         "41": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Ampinagar <br><b>AC no: </b>41<br><hr><b>Leading: </b>PATHAN LAL JAMATIA<br><b>Leading Party: </b>TMP (21525 votes)<br><b>Trailing: </b>PATAL KANYA JAMATIA<br><b>Trailing Party: </b>BJP (9339 votes)<br><b>Margin: </b>12186<br><b>Total no of voters: </b>37743<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"PATHAN LAL JAMATIA&#013;(21525 votes)\" style=\"border: 1px solid white;width: 57vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(57.0%)</td><td title=\"PATAL KANYA JAMATIA&#013;(9339 votes)\" style=\"border: 1px solid white;width: 24vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(24.7%)</td><td title=\"PARIKHIT KALAI&#013;(4151 votes)\" style=\"border: 1px solid white;width: 11vw;background-color: rgba(255,0,0,1);\">CPM <br>(11.0%)</td><td title=\"SINDHU CHANDRA JAMATIA&#013;(2068 votes)\" style=\"border: 1px solid white;width: 5vw;background-color: rgba(0,0,0,0.2);\">Indigenous People's Front of Tripura <br>(5.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(1.8%)</td></tr></table><br>"
+            "color": "rgba(240.4545, 99.8788, 76.6061, 1.0)",
+            "matter": "<b>AC NO: </b>41<br><b>AC Name: </b>Dubbak<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2261<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>2269<br><b>Total Voters: </b>174765<br><b>Percenatge: </b>1.3<br><b>rank: </b>4<br>"
         },
         "42": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Amarpur <br><b>AC no: </b>42<br><hr><b>Leading: </b>Ranjit Das<br><b>Leading Party: </b>BJP (17989 votes)<br><b>Trailing: </b>Parimal Debnath<br><b>Trailing Party: </b>CPM (13395 votes)<br><b>Margin: </b>4594<br><b>Total no of voters: </b>40693<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Ranjit Das&#013;(17989 votes)\" style=\"border: 1px solid white;width: 44vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(44.2%)</td><td title=\"Parimal Debnath&#013;(13395 votes)\" style=\"border: 1px solid white;width: 32vw;background-color: rgba(255,0,0,1);\">CPM <br>(32.9%)</td><td title=\"Ashiram Reang&#013;(8116 votes)\" style=\"border: 1px solid white;width: 19vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(19.9%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.0%)</td></tr></table><br>"
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>42<br><b>AC Name: </b>Gajwel<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>827<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>832<br><b>Total Voters: </b>232417<br><b>Percenatge: </b>0.36<br><b>rank: </b>12<br>"
         },
         "43": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Karbook <br><b>AC no: </b>43<br><hr><b>Leading: </b>Sanjoy Manik Tripura<br><b>Leading Party: </b>TMP (16647 votes)<br><b>Trailing: </b>Ashim Kumar Tripura<br><b>Trailing Party: </b>BJP (12200 votes)<br><b>Margin: </b>4447<br><b>Total no of voters: </b>37089<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Sanjoy Manik Tripura&#013;(16647 votes)\" style=\"border: 1px solid white;width: 44vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(44.9%)</td><td title=\"Ashim Kumar Tripura&#013;(12200 votes)\" style=\"border: 1px solid white;width: 32vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(32.9%)</td><td title=\"Priyamani Debbarma&#013;(6934 votes)\" style=\"border: 1px solid white;width: 18vw;background-color: rgba(255,0,0,1);\">CPM <br>(18.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.5%)</td></tr></table><br>"
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>43<br><b>AC Name: </b>Medchal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>3719<br><b>Postal Votes: </b>18<br><b>Total Votes: </b>3737<br><b>Total Voters: </b>400516<br><b>Percenatge: </b>0.93<br><b>rank: </b>4<br>"
         },
         "44": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Raima Valley <br><b>AC no: </b>44<br><hr><b>Leading: </b>Nandita Debbarma(Reang)<br><b>Leading Party: </b>TMP (19269 votes)<br><b>Trailing: </b>Bikash Chakma<br><b>Trailing Party: </b>BJP (15827 votes)<br><b>Margin: </b>3442<br><b>Total no of voters: </b>47393<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Nandita Debbarma(Reang)&#013;(19269 votes)\" style=\"border: 1px solid white;width: 40vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(40.7%)</td><td title=\"Bikash Chakma&#013;(15827 votes)\" style=\"border: 1px solid white;width: 33vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(33.4%)</td><td title=\"Pabin Tripura&#013;(11339 votes)\" style=\"border: 1px solid white;width: 23vw;background-color: rgba(255,0,0,1);\">CPM <br>(23.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.0%)</td></tr></table><br>"
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>44<br><b>AC Name: </b>Malkajgiri<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2597<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>2608<br><b>Total Voters: </b>265411<br><b>Percenatge: </b>0.98<br><b>rank: </b>4<br>"
         },
         "45": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Kamalpur <br><b>AC no: </b>45<br><hr><b>Leading: </b>MANOJ KANTI DEB<br><b>Leading Party: </b>BJP (18287 votes)<br><b>Trailing: </b>RUBI GHOSH<br><b>Trailing Party: </b>INC (13027 votes)<br><b>Margin: </b>5260<br><b>Total no of voters: </b>40496<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"MANOJ KANTI DEB&#013;(18287 votes)\" style=\"border: 1px solid white;width: 45vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(45.2%)</td><td title=\"RUBI GHOSH&#013;(13027 votes)\" style=\"border: 1px solid white;width: 32vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(32.2%)</td><td title=\"MERI DEBBARMA&#013;(7534 votes)\" style=\"border: 1px solid white;width: 18vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(18.6%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.0%)</td></tr></table><br>"
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>45<br><b>AC Name: </b>Quthbullapur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>4073<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>4079<br><b>Total Voters: </b>401667<br><b>Percenatge: </b>1.02<br><b>rank: </b>4<br>"
         },
         "46": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Surma <br><b>AC no: </b>46<br><hr><b>Leading: </b>SWAPNA DAS PAUL<br><b>Leading Party: </b>BJP (17313 votes)<br><b>Trailing: </b>ANJAN DAS<br><b>Trailing Party: </b>CPM (12475 votes)<br><b>Margin: </b>4838<br><b>Total no of voters: </b>42964<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"SWAPNA DAS PAUL&#013;(17313 votes)\" style=\"border: 1px solid white;width: 40vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(40.3%)</td><td title=\"ANJAN DAS&#013;(12475 votes)\" style=\"border: 1px solid white;width: 29vw;background-color: rgba(255,0,0,1);\">CPM <br>(29.0%)</td><td title=\"SHYAMAL SARKAR&#013;(11467 votes)\" style=\"border: 1px solid white;width: 26vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(26.7%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.0%)</td></tr></table><br>"
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>46<br><b>AC Name: </b>Kukatpalle<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2446<br><b>Postal Votes: </b>12<br><b>Total Votes: </b>2458<br><b>Total Voters: </b>250794<br><b>Percenatge: </b>0.98<br><b>rank: </b>4<br>"
         },
         "47": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Ambassa <br><b>AC no: </b>47<br><hr><b>Leading: </b>Chitta Ranjan Debbarma<br><b>Leading Party: </b>TMP (15317 votes)<br><b>Trailing: </b>Suchitra Debbarma<br><b>Trailing Party: </b>BJP (14824 votes)<br><b>Margin: </b>493<br><b>Total no of voters: </b>46045<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Chitta Ranjan Debbarma&#013;(15317 votes)\" style=\"border: 1px solid white;width: 33vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(33.3%)</td><td title=\"Suchitra Debbarma&#013;(14824 votes)\" style=\"border: 1px solid white;width: 32vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(32.2%)</td><td title=\"Amalendu DebBarma&#013;(13373 votes)\" style=\"border: 1px solid white;width: 29vw;background-color: rgba(255,0,0,1);\">CPM <br>(29.0%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.5%)</td></tr></table><br>"
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>47<br><b>AC Name: </b>Uppal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2519<br><b>Postal Votes: </b>17<br><b>Total Votes: </b>2536<br><b>Total Voters: </b>275026<br><b>Percenatge: </b>0.92<br><b>rank: </b>4<br>"
         },
         "48": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Karamchara <br><b>AC no: </b>48<br><hr><b>Leading: </b>Paul Dangshu<br><b>Leading Party: </b>TMP (20496 votes)<br><b>Trailing: </b>Braja Lal Tripura<br><b>Trailing Party: </b>BJP (9901 votes)<br><b>Margin: </b>10595<br><b>Total no of voters: </b>38871<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Paul Dangshu&#013;(20496 votes)\" style=\"border: 1px solid white;width: 52vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(52.7%)</td><td title=\"Braja Lal Tripura&#013;(9901 votes)\" style=\"border: 1px solid white;width: 25vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(25.5%)</td><td title=\"Dibachandra Hrangkhawl&#013;(7344 votes)\" style=\"border: 1px solid white;width: 18vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(18.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.9%)</td></tr></table><br>"
+            "color": "rgba(240.0348, 245.6242, 190.5288, 1.0)",
+            "matter": "<b>AC NO: </b>48<br><b>AC Name: </b>Ibrahimpatnam<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1410<br><b>Postal Votes: </b>17<br><b>Total Votes: </b>1427<br><b>Total Voters: </b>248461<br><b>Percenatge: </b>0.57<br><b>rank: </b>7<br>"
         },
         "49": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Chawmanu <br><b>AC no: </b>49<br><hr><b>Leading: </b>Sambhu Lal Chakma<br><b>Leading Party: </b>BJP (16644 votes)<br><b>Trailing: </b>Hangsa Kumar Tripura<br><b>Trailing Party: </b>TMP (13745 votes)<br><b>Margin: </b>2899<br><b>Total no of voters: </b>39772<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Sambhu Lal Chakma&#013;(16644 votes)\" style=\"border: 1px solid white;width: 41vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(41.8%)</td><td title=\"Hangsa Kumar Tripura&#013;(13745 votes)\" style=\"border: 1px solid white;width: 34vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(34.6%)</td><td title=\"Jiban Mohan Tripura&#013;(7402 votes)\" style=\"border: 1px solid white;width: 18vw;background-color: rgba(255,0,0,1);\">CPM <br>(18.6%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.0%)</td></tr></table><br>"
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC NO: </b>49<br><b>AC Name: </b>Lal Bahadur Nagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2941<br><b>Postal Votes: </b>25<br><b>Total Votes: </b>2966<br><b>Total Voters: </b>295131<br><b>Percenatge: </b>1.0<br><b>rank: </b>4<br>"
         },
         "50": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Pabiachara <br><b>AC no: </b>50<br><hr><b>Leading: </b>BHAGABAN CHANDRA DAS<br><b>Leading Party: </b>BJP (19542 votes)<br><b>Trailing: </b>SATYABAN DAS<br><b>Trailing Party: </b>INC (19134 votes)<br><b>Margin: </b>408<br><b>Total no of voters: </b>43952<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"BHAGABAN CHANDRA DAS&#013;(19542 votes)\" style=\"border: 1px solid white;width: 44vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(44.5%)</td><td title=\"SATYABAN DAS&#013;(19134 votes)\" style=\"border: 1px solid white;width: 43vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(43.5%)</td><td title=\"GOBINDA DAS&#013;(4331 votes)\" style=\"border: 1px solid white;width: 9vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(9.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.1%)</td></tr></table><br>"
+            "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+            "matter": "<b>AC NO: </b>50<br><b>AC Name: </b>Maheswaram<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2022<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>2031<br><b>Total Voters: </b>306334<br><b>Percenatge: </b>0.66<br><b>rank: </b>5<br>"
         },
         "51": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Fatikroy <br><b>AC no: </b>51<br><hr><b>Leading: </b>Sudhangshu Das<br><b>Leading Party: </b>BJP (19570 votes)<br><b>Trailing: </b>Subrata Das<br><b>Trailing Party: </b>CPM (14458 votes)<br><b>Margin: </b>5112<br><b>Total no of voters: </b>39170<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Sudhangshu Das&#013;(19570 votes)\" style=\"border: 1px solid white;width: 50vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(50.0%)</td><td title=\"Subrata Das&#013;(14458 votes)\" style=\"border: 1px solid white;width: 36vw;background-color: rgba(255,0,0,1);\">CPM <br>(36.9%)</td><td title=\"Bilas Bindu Malakar&#013;(4298 votes)\" style=\"border: 1px solid white;width: 11vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(11.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.1%)</td></tr></table><br>"
+            "color": "rgba(231.4833, 240.2667, 190.1167, 1.0)",
+            "matter": "<b>AC NO: </b>51<br><b>AC Name: </b>Rajendranagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1819<br><b>Postal Votes: </b>13<br><b>Total Votes: </b>1832<br><b>Total Voters: </b>328193<br><b>Percenatge: </b>0.56<br><b>rank: </b>5<br>"
         },
         "52": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Chandipur <br><b>AC no: </b>52<br><hr><b>Leading: </b>Tinku Roy<br><b>Leading Party: </b>BJP (17395 votes)<br><b>Trailing: </b>Krishnendu Choudhury<br><b>Trailing Party: </b>CPM (16818 votes)<br><b>Margin: </b>577<br><b>Total no of voters: </b>40761<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tinku Roy&#013;(17395 votes)\" style=\"border: 1px solid white;width: 42vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(42.7%)</td><td title=\"Krishnendu Choudhury&#013;(16818 votes)\" style=\"border: 1px solid white;width: 41vw;background-color: rgba(255,0,0,1);\">CPM <br>(41.3%)</td><td title=\"Ranjan Singha&#013;(5379 votes)\" style=\"border: 1px solid white;width: 13vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(13.2%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.8%)</td></tr></table><br>"
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC NO: </b>52<br><b>AC Name: </b>Serilingampally<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>3142<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>3145<br><b>Total Voters: </b>357830<br><b>Percenatge: </b>0.88<br><b>rank: </b>4<br>"
         },
         "53": {
-            "color": "rgba(0.0,192.01500000000001,255.0,1)",
-            "matter": "<b>AC Name: </b>Kailashahar <br><b>AC no: </b>53<br><hr><b>Leading: </b>Birajit Sinha<br><b>Leading Party: </b>INC (25300 votes)<br><b>Trailing: </b>Moboshar Ali<br><b>Trailing Party: </b>BJP (15614 votes)<br><b>Margin: </b>9686<br><b>Total no of voters: </b>42433<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Birajit Sinha&#013;(25300 votes)\" style=\"border: 1px solid white;width: 59vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(59.6%)</td><td title=\"Moboshar Ali&#013;(15614 votes)\" style=\"border: 1px solid white;width: 36vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(36.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.6%)</td></tr></table><br>"
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>53<br><b>AC Name: </b>Chevella<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1412<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>1423<br><b>Total Voters: </b>196802<br><b>Percenatge: </b>0.72<br><b>rank: </b>5<br>"
         },
         "54": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Kadamtala<br><b>AC no: </b>54<br><hr><b>Leading: </b>Islam Uddin<br><b>Leading Party: </b>CPM (20012 votes)<br><b>Trailing: </b>Dilip Tanti<br><b>Trailing Party: </b>BJP (18120 votes)<br><b>Margin: </b>1892<br><b>Total no of voters: </b>40309<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Islam Uddin&#013;(20012 votes)\" style=\"border: 1px solid white;width: 49vw;background-color: rgba(255,0,0,1);\">CPM <br>(49.6%)</td><td title=\"Dilip Tanti&#013;(18120 votes)\" style=\"border: 1px solid white;width: 45vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(45.0%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.4%)</td></tr></table><br>"
+            "color": "rgba(231.4833, 240.2667, 190.1167, 1.0)",
+            "matter": "<b>AC NO: </b>54<br><b>AC Name: </b>Pargi<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1119<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1124<br><b>Total Voters: </b>201380<br><b>Percenatge: </b>0.56<br><b>rank: </b>7<br>"
         },
         "55": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Bagbassa <br><b>AC no: </b>55<br><hr><b>Leading: </b>Jadab Lal Debnath<br><b>Leading Party: </b>BJP (18905 votes)<br><b>Trailing: </b>Bijita Nath<br><b>Trailing Party: </b>CPM (17444 votes)<br><b>Margin: </b>1461<br><b>Total no of voters: </b>39878<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Jadab Lal Debnath&#013;(18905 votes)\" style=\"border: 1px solid white;width: 47vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(47.4%)</td><td title=\"Bijita Nath&#013;(17444 votes)\" style=\"border: 1px solid white;width: 43vw;background-color: rgba(255,0,0,1);\">CPM <br>(43.7%)</td><td title=\"Kalpana Sinha&#013;(2281 votes)\" style=\"border: 1px solid white;width: 5vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(5.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.2%)</td></tr></table><br>"
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>55<br><b>AC Name: </b>Vicarabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1406<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1412<br><b>Total Voters: </b>174282<br><b>Percenatge: </b>0.81<br><b>rank: </b>5<br>"
         },
         "56": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Dharmanagar <br><b>AC no: </b>56<br><hr><b>Leading: </b>Biswa Bandhu Sen<br><b>Leading Party: </b>BJP (18684 votes)<br><b>Trailing: </b>Chayan Bhattacharya<br><b>Trailing Party: </b>INC (17586 votes)<br><b>Margin: </b>1098<br><b>Total no of voters: </b>37861<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Biswa Bandhu Sen&#013;(18684 votes)\" style=\"border: 1px solid white;width: 49vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(49.3%)</td><td title=\"Chayan Bhattacharya&#013;(17586 votes)\" style=\"border: 1px solid white;width: 46vw;background-color: rgba(0.0,192.01500000000001,255.0,1);\">INC <br>(46.4%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.3%)</td></tr></table><br>"
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC NO: </b>56<br><b>AC Name: </b>Tandur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>570<br><b>Postal Votes: </b>22<br><b>Total Votes: </b>592<br><b>Total Voters: </b>175225<br><b>Percenatge: </b>0.34<br><b>rank: </b>9<br>"
         },
         "57": {
-            "color": "rgba(255,0,0,1)",
-            "matter": "<b>AC Name: </b>Jubarajnagar <br><b>AC no: </b>57<br><hr><b>Leading: </b>Sailendra Chandra Nath<br><b>Leading Party: </b>CPM (19386 votes)<br><b>Trailing: </b>Malina Debnath<br><b>Trailing Party: </b>BJP (19090 votes)<br><b>Margin: </b>296<br><b>Total no of voters: </b>39329<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Sailendra Chandra Nath&#013;(19386 votes)\" style=\"border: 1px solid white;width: 49vw;background-color: rgba(255,0,0,1);\">CPM <br>(49.3%)</td><td title=\"Malina Debnath&#013;(19090 votes)\" style=\"border: 1px solid white;width: 48vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(48.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(2.2%)</td></tr></table><br>"
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>57<br><b>AC Name: </b>Musheerabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1332<br><b>Postal Votes: </b>0<br><b>Total Votes: </b>1332<br><b>Total Voters: </b>153252<br><b>Percenatge: </b>0.87<br><b>rank: </b>4<br>"
         },
         "58": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Panisagar <br><b>AC no: </b>58<br><hr><b>Leading: </b>Binay Bhushan Das<br><b>Leading Party: </b>BJP (15745 votes)<br><b>Trailing: </b>Sital Das<br><b>Trailing Party: </b>CPM (13247 votes)<br><b>Margin: </b>2498<br><b>Total no of voters: </b>37843<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Binay Bhushan Das&#013;(15745 votes)\" style=\"border: 1px solid white;width: 41vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(41.6%)</td><td title=\"Sital Das&#013;(13247 votes)\" style=\"border: 1px solid white;width: 35vw;background-color: rgba(255,0,0,1);\">CPM <br>(35.0%)</td><td title=\"Joy Chuangthang Halam&#013;(7612 votes)\" style=\"border: 1px solid white;width: 20vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(20.1%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.3%)</td></tr></table><br>"
+            "color": "rgba(254.4591, 237.6909, 171.2364, 1.0)",
+            "matter": "<b>AC NO: </b>58<br><b>AC Name: </b>Malakpet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>876<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>881<br><b>Total Voters: </b>132024<br><b>Percenatge: </b>0.67<br><b>rank: </b>5<br>"
         },
         "59": {
-            "color": "rgba(250.0,181.0,5.0,1)",
-            "matter": "<b>AC Name: </b>Pecharthal <br><b>AC no: </b>59<br><hr><b>Leading: </b>SANTANA CHAKMA<br><b>Leading Party: </b>BJP (17781 votes)<br><b>Trailing: </b>SADHAN KUMAR CHAKMA<br><b>Trailing Party: </b>CPM (9808 votes)<br><b>Margin: </b>7973<br><b>Total no of voters: </b>39078<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"SANTANA CHAKMA&#013;(17781 votes)\" style=\"border: 1px solid white;width: 45vw;background-color: rgba(250.0,181.0,5.0,1);\">BJP <br>(45.5%)</td><td title=\"SADHAN KUMAR CHAKMA&#013;(9808 votes)\" style=\"border: 1px solid white;width: 25vw;background-color: rgba(255,0,0,1);\">CPM <br>(25.1%)</td><td title=\"HOLLYWOOD CHAKMA&#013;(9644 votes)\" style=\"border: 1px solid white;width: 24vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(24.7%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.7%)</td></tr></table><br>"
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC NO: </b>59<br><b>AC Name: </b>Amberpet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1308<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>1317<br><b>Total Voters: </b>146488<br><b>Percenatge: </b>0.9<br><b>rank: </b>4<br>"
         },
         "60": {
-            "color": "rgba(255,229.5,0,1)",
-            "matter": "<b>AC Name: </b>Kanchanpur <br><b>AC no: </b>60<br><hr><b>Leading: </b>PHILIP KUMAR REANG<br><b>Leading Party: </b>TMP (15413 votes)<br><b>Trailing: </b>RAJENDRA REANG<br><b>Trailing Party: </b>CPM (10522 votes)<br><b>Margin: </b>4891<br><b>Total no of voters: </b>42295<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"PHILIP KUMAR REANG&#013;(15413 votes)\" style=\"border: 1px solid white;width: 36vw;background-color: rgba(255,229.5,0,1);\">TMP <br>(36.4%)</td><td title=\"RAJENDRA REANG&#013;(10522 votes)\" style=\"border: 1px solid white;width: 24vw;background-color: rgba(255,0,0,1);\">CPM <br>(24.9%)</td><td title=\"BIMANJOY REANG&#013;(10014 votes)\" style=\"border: 1px solid white;width: 23vw;background-color: rgba(0,0,0,0.2);\">IND <br>(23.7%)</td><td title=\"PREM KUMAR REANG&#013;(3445 votes)\" style=\"border: 1px solid white;width: 8vw;background-color: rgba(0,0,0,0.2);\">Indigenous People's Front of Tripura <br>(8.1%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(6.9%)</td></tr></table><br>"
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC NO: </b>60<br><b>AC Name: </b>Khairatabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1188<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1194<br><b>Total Voters: </b>154924<br><b>Percenatge: </b>0.77<br><b>rank: </b>4<br>"
+        },
+        "61": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC NO: </b>61<br><b>AC Name: </b>Jubilee Hills<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1367<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1374<br><b>Total Voters: </b>183312<br><b>Percenatge: </b>0.75<br><b>rank: </b>5<br>"
+        },
+        "62": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>62<br><b>AC Name: </b>Sanathnagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1033<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1040<br><b>Total Voters: </b>128263<br><b>Percenatge: </b>0.81<br><b>rank: </b>4<br>"
+        },
+        "63": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>63<br><b>AC Name: </b>Nampally<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>542<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>544<br><b>Total Voters: </b>152300<br><b>Percenatge: </b>0.36<br><b>rank: </b>5<br>"
+        },
+        "64": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC NO: </b>64<br><b>AC Name: </b>Karwan<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>886<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>896<br><b>Total Voters: </b>175836<br><b>Percenatge: </b>0.51<br><b>rank: </b>5<br>"
+        },
+        "65": {
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC NO: </b>65<br><b>AC Name: </b>Goshamahal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>621<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>626<br><b>Total Voters: </b>148259<br><b>Percenatge: </b>0.42<br><b>rank: </b>4<br>"
+        },
+        "66": {
+            "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+            "matter": "<b>AC NO: </b>66<br><b>AC Name: </b>Charminar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>833<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>837<br><b>Total Voters: </b>98103<br><b>Percenatge: </b>0.85<br><b>rank: </b>6<br>"
+        },
+        "67": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>67<br><b>AC Name: </b>Chandrayangutta<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1444<br><b>Postal Votes: </b>16<br><b>Total Votes: </b>1460<br><b>Total Voters: </b>153771<br><b>Percenatge: </b>0.95<br><b>rank: </b>5<br>"
+        },
+        "68": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC NO: </b>68<br><b>AC Name: </b>Yakutpura<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>700<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>704<br><b>Total Voters: </b>140434<br><b>Percenatge: </b>0.5<br><b>rank: </b>6<br>"
+        },
+        "69": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC NO: </b>69<br><b>AC Name: </b>Bahadurpura<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1267<br><b>Postal Votes: </b>12<br><b>Total Votes: </b>1279<br><b>Total Voters: </b>143725<br><b>Percenatge: </b>0.89<br><b>rank: </b>6<br>"
+        },
+        "70": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>70<br><b>AC Name: </b>Secunderabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1503<br><b>Postal Votes: </b>15<br><b>Total Votes: </b>1518<br><b>Total Voters: </b>141148<br><b>Percenatge: </b>1.08<br><b>rank: </b>4<br>"
+        },
+        "71": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>71<br><b>AC Name: </b>Secunderabad Cantt.<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1216<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>1220<br><b>Total Voters: </b>124517<br><b>Percenatge: </b>0.98<br><b>rank: </b>4<br>"
+        },
+        "72": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>72<br><b>AC Name: </b>Kodangal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1999<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>2002<br><b>Total Voters: </b>195163<br><b>Percenatge: </b>1.03<br><b>rank: </b>6<br>"
+        },
+        "73": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC NO: </b>73<br><b>AC Name: </b>Narayanpet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1512<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1517<br><b>Total Voters: </b>182899<br><b>Percenatge: </b>0.83<br><b>rank: </b>5<br>"
+        },
+        "74": {
+            "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+            "matter": "<b>AC NO: </b>74<br><b>AC Name: </b>Mahbubnagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1140<br><b>Postal Votes: </b>17<br><b>Total Votes: </b>1157<br><b>Total Voters: </b>181572<br><b>Percenatge: </b>0.64<br><b>rank: </b>6<br>"
+        },
+        "75": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>75<br><b>AC Name: </b>Jadcherla<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1652<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>1655<br><b>Total Voters: </b>180640<br><b>Percenatge: </b>0.92<br><b>rank: </b>5<br>"
+        },
+        "76": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>76<br><b>AC Name: </b>Devarkadra<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1705<br><b>Postal Votes: </b>1<br><b>Total Votes: </b>1706<br><b>Total Voters: </b>195423<br><b>Percenatge: </b>0.87<br><b>rank: </b>5<br>"
+        },
+        "77": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC NO: </b>77<br><b>AC Name: </b>Makthal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1895<br><b>Postal Votes: </b>1<br><b>Total Votes: </b>1896<br><b>Total Voters: </b>187834<br><b>Percenatge: </b>1.01<br><b>rank: </b>5<br>"
+        },
+        "78": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC NO: </b>78<br><b>AC Name: </b>Wanaparthy<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1928<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>1938<br><b>Total Voters: </b>213164<br><b>Percenatge: </b>0.91<br><b>rank: </b>8<br>"
+        },
+        "79": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>79<br><b>AC Name: </b>Gadwal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>761<br><b>Postal Votes: </b>14<br><b>Total Votes: </b>775<br><b>Total Voters: </b>214872<br><b>Percenatge: </b>0.36<br><b>rank: </b>10<br>"
+        },
+        "80": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>80<br><b>AC Name: </b>Alampur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2003<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>2013<br><b>Total Voters: </b>196797<br><b>Percenatge: </b>1.02<br><b>rank: </b>5<br>"
+        },
+        "81": {
+            "color": "rgba(254.8712, 250.8788, 186.4848, 1.0)",
+            "matter": "<b>AC NO: </b>81<br><b>AC Name: </b>Nagarkurnool<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1116<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1122<br><b>Total Voters: </b>184616<br><b>Percenatge: </b>0.61<br><b>rank: </b>7<br>"
+        },
+        "82": {
+            "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+            "matter": "<b>AC NO: </b>82<br><b>AC Name: </b>Achampet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2830<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>2833<br><b>Total Voters: </b>195620<br><b>Percenatge: </b>1.45<br><b>rank: </b>4<br>"
+        },
+        "83": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC NO: </b>83<br><b>AC Name: </b>Kalwakurthy<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>660<br><b>Postal Votes: </b>1<br><b>Total Votes: </b>661<br><b>Total Voters: </b>202752<br><b>Percenatge: </b>0.33<br><b>rank: </b>11<br>"
+        },
+        "84": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC NO: </b>84<br><b>AC Name: </b>Shadnagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1384<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1389<br><b>Total Voters: </b>195555<br><b>Percenatge: </b>0.71<br><b>rank: </b>6<br>"
+        },
+        "85": {
+            "color": "rgba(222.9318, 234.9091, 189.7045, 1.0)",
+            "matter": "<b>AC NO: </b>85<br><b>AC Name: </b>Kollapur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1035<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>1037<br><b>Total Voters: </b>192228<br><b>Percenatge: </b>0.54<br><b>rank: </b>6<br>"
+        },
+        "86": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC NO: </b>86<br><b>AC Name: </b>Devarakonda<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1607<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1613<br><b>Total Voters: </b>213881<br><b>Percenatge: </b>0.75<br><b>rank: </b>5<br>"
+        },
+        "87": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC NO: </b>87<br><b>AC Name: </b>Nagarjuna Sagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1045<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>1056<br><b>Total Voters: </b>202088<br><b>Percenatge: </b>0.52<br><b>rank: </b>10<br>"
+        },
+        "88": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC NO: </b>88<br><b>AC Name: </b>Miryalaguda<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>521<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>527<br><b>Total Voters: </b>193741<br><b>Percenatge: </b>0.27<br><b>rank: </b>9<br>"
+        },
+        "89": {
+            "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+            "matter": "<b>AC NO: </b>89<br><b>AC Name: </b>Huzurnagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>834<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>843<br><b>Total Voters: </b>215298<br><b>Percenatge: </b>0.39<br><b>rank: </b>12<br>"
+        },
+        "90": {
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC NO: </b>90<br><b>AC Name: </b>Kodad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>868<br><b>Postal Votes: </b>19<br><b>Total Votes: </b>887<br><b>Total Voters: </b>208992<br><b>Percenatge: </b>0.42<br><b>rank: </b>9<br>"
+        },
+        "91": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC NO: </b>91<br><b>AC Name: </b>Suryapet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>760<br><b>Postal Votes: </b>14<br><b>Total Votes: </b>774<br><b>Total Voters: </b>206669<br><b>Percenatge: </b>0.37<br><b>rank: </b>7<br>"
+        },
+        "92": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>92<br><b>AC Name: </b>Nalgonda<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>873<br><b>Postal Votes: </b>28<br><b>Total Votes: </b>901<br><b>Total Voters: </b>204027<br><b>Percenatge: </b>0.44<br><b>rank: </b>7<br>"
+        },
+        "93": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>93<br><b>AC Name: </b>Munugode<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>844<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>849<br><b>Total Voters: </b>233608<br><b>Percenatge: </b>0.36<br><b>rank: </b>8<br>"
+        },
+        "94": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>94<br><b>AC Name: </b>Bhongir<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>879<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>882<br><b>Total Voters: </b>196077<br><b>Percenatge: </b>0.45<br><b>rank: </b>5<br>"
+        },
+        "95": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>95<br><b>AC Name: </b>Nakrekal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>961<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>969<br><b>Total Voters: </b>219033<br><b>Percenatge: </b>0.44<br><b>rank: </b>6<br>"
+        },
+        "96": {
+            "color": "rgba(254.9742, 254.1758, 190.297, 1.0)",
+            "matter": "<b>AC NO: </b>96<br><b>AC Name: </b>Thungathurthi<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1351<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>1355<br><b>Total Voters: </b>225170<br><b>Percenatge: </b>0.6<br><b>rank: </b>8<br>"
+        },
+        "97": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC NO: </b>97<br><b>AC Name: </b>Alair<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>657<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>659<br><b>Total Voters: </b>212761<br><b>Percenatge: </b>0.31<br><b>rank: </b>9<br>"
+        },
+        "98": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>98<br><b>AC Name: </b>Jangoan<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1458<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>1467<br><b>Total Voters: </b>203600<br><b>Percenatge: </b>0.72<br><b>rank: </b>7<br>"
+        },
+        "99": {
+            "color": "rgba(214.3803, 229.5515, 189.2924, 1.0)",
+            "matter": "<b>AC NO: </b>99<br><b>AC Name: </b>Ghanpur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1148<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1153<br><b>Total Voters: </b>215755<br><b>Percenatge: </b>0.53<br><b>rank: </b>9<br>"
+        },
+        "100": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>100<br><b>AC Name: </b>Palakurthi<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2741<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>2743<br><b>Total Voters: </b>220156<br><b>Percenatge: </b>1.25<br><b>rank: </b>5<br>"
+        },
+        "101": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>101<br><b>AC Name: </b>Dornakal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1388<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>1392<br><b>Total Voters: </b>192623<br><b>Percenatge: </b>0.72<br><b>rank: </b>8<br>"
+        },
+        "102": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>102<br><b>AC Name: </b>Mahabubabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1926<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1932<br><b>Total Voters: </b>210328<br><b>Percenatge: </b>0.92<br><b>rank: </b>5<br>"
+        },
+        "103": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>103<br><b>AC Name: </b>Narsampet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>730<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>738<br><b>Total Voters: </b>205386<br><b>Percenatge: </b>0.36<br><b>rank: </b>10<br>"
+        },
+        "104": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC NO: </b>104<br><b>AC Name: </b>Parkal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>963<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>966<br><b>Total Voters: </b>188681<br><b>Percenatge: </b>0.51<br><b>rank: </b>7<br>"
+        },
+        "105": {
+            "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+            "matter": "<b>AC NO: </b>105<br><b>AC Name: </b>Warangal West<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2405<br><b>Postal Votes: </b>21<br><b>Total Votes: </b>2426<br><b>Total Voters: </b>167025<br><b>Percenatge: </b>1.45<br><b>rank: </b>4<br>"
+        },
+        "106": {
+            "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+            "matter": "<b>AC NO: </b>106<br><b>AC Name: </b>Warangal East<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1966<br><b>Postal Votes: </b>12<br><b>Total Votes: </b>1978<br><b>Total Voters: </b>171687<br><b>Percenatge: </b>1.15<br><b>rank: </b>4<br>"
+        },
+        "107": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC NO: </b>107<br><b>AC Name: </b>Waradhanapet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>3601<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>3612<br><b>Total Voters: </b>218776<br><b>Percenatge: </b>1.65<br><b>rank: </b>4<br>"
+        },
+        "108": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC NO: </b>108<br><b>AC Name: </b>Bhupalpalle<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>826<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>830<br><b>Total Voters: </b>225688<br><b>Percenatge: </b>0.37<br><b>rank: </b>11<br>"
+        },
+        "109": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>109<br><b>AC Name: </b>Mulug<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1931<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1937<br><b>Total Voters: </b>187583<br><b>Percenatge: </b>1.03<br><b>rank: </b>5<br>"
+        },
+        "110": {
+            "color": "rgba(240.0348, 245.6242, 190.5288, 1.0)",
+            "matter": "<b>AC NO: </b>110<br><b>AC Name: </b>Pinapaka<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>899<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>905<br><b>Total Voters: </b>159883<br><b>Percenatge: </b>0.57<br><b>rank: </b>8<br>"
+        },
+        "111": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC NO: </b>111<br><b>AC Name: </b>Yellandu<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1408<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>1418<br><b>Total Voters: </b>178339<br><b>Percenatge: </b>0.8<br><b>rank: </b>6<br>"
+        },
+        "112": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>112<br><b>AC Name: </b>Khammam<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1863<br><b>Postal Votes: </b>62<br><b>Total Votes: </b>1925<br><b>Total Voters: </b>236224<br><b>Percenatge: </b>0.81<br><b>rank: </b>5<br>"
+        },
+        "113": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>113<br><b>AC Name: </b>Palair<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>515<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>520<br><b>Total Voters: </b>216851<br><b>Percenatge: </b>0.24<br><b>rank: </b>12<br>"
+        },
+        "114": {
+            "color": "rgba(253.9439, 221.2061, 152.1758, 1.0)",
+            "matter": "<b>AC NO: </b>114<br><b>AC Name: </b>Madhira<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1448<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1453<br><b>Total Voters: </b>196364<br><b>Percenatge: </b>0.74<br><b>rank: </b>5<br>"
+        },
+        "115": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>115<br><b>AC Name: </b>Wyra<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1223<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1230<br><b>Total Voters: </b>169407<br><b>Percenatge: </b>0.73<br><b>rank: </b>7<br>"
+        },
+        "116": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>116<br><b>AC Name: </b>Sathupalle<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>628<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>635<br><b>Total Voters: </b>215349<br><b>Percenatge: </b>0.29<br><b>rank: </b>9<br>"
+        },
+        "117": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC NO: </b>117<br><b>AC Name: </b>Kothagudem<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1420<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1427<br><b>Total Voters: </b>187920<br><b>Percenatge: </b>0.76<br><b>rank: </b>7<br>"
+        },
+        "118": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC NO: </b>118<br><b>AC Name: </b>Aswaraopeta<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1362<br><b>Postal Votes: </b>1<br><b>Total Votes: </b>1363<br><b>Total Voters: </b>136224<br><b>Percenatge: </b>1.0<br><b>rank: </b>8<br>"
+        },
+        "119": {
+            "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+            "matter": "<b>AC NO: </b>119<br><b>AC Name: </b>Bhadrachalam<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1666<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1672<br><b>Total Voters: </b>118129<br><b>Percenatge: </b>1.42<br><b>rank: </b>6<br>"
         }
-    }
+    },
+    "border": "0,0"
 }
